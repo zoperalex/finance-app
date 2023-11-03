@@ -1,5 +1,7 @@
+import DarkModeSlider from "./components/DarkModeSlider";
+
 function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
+  return <DarkModeSlider />;
 }
 
 export default App;
